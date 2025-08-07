@@ -45,20 +45,20 @@ This tool helps users understand their BP condition—Normal, Elevated, Hyperten
 
 ### 🏠 Home Page
 <img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/c73a5cae-7264-45ae-b327-7d1325392345" />
-<img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/553a8cab-3626-441d-8c0f-fe53a06152f4" />
+<img width="1365" height="690" alt="image" src="https://github.com/user-attachments/assets/bf08a235-796c-406c-a1a6-844e402d28cc" />
 
 ---
 
 ### 📝 Patient Input Form
 <img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/fdabd575-bf56-413f-8009-352d0174373e" />
-<img width="1361" height="766" alt="image" src="https://github.com/user-attachments/assets/495be553-6440-4275-8ddc-c349736a958e" />
-<img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/38cf3f6f-e221-45fb-9b6a-82715a6cb842" />
+<img width="1365" height="688" alt="image" src="https://github.com/user-attachments/assets/2c7c88b4-3033-4b95-b367-68dcf1dbd260" />
+<img width="1365" height="692" alt="image" src="https://github.com/user-attachments/assets/5a76c45a-f035-4be4-9f2a-dd85683a34f6" />
 
 ---
 
 ### 📊 Prediction Result
 <img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/81ec2e45-c3c5-4597-836b-5865822b52ef" />
-<img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/8f80f5b8-6d56-4513-84b3-2f916767f06a" />
+<img width="1361" height="692" alt="image" src="https://github.com/user-attachments/assets/f8d70004-b290-4d46-8ac1-67de279b2471" />
 
 ---
 
