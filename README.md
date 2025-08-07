@@ -43,10 +43,6 @@ This tool helps users understand their BP condition—Normal, Elevated, Hyperten
 
 ---
 
-## 🖼️ Screenshots
-
-> Replace these dummy images with real ones after deployment
-
 ### 🏠 Home Page
 <img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/c73a5cae-7264-45ae-b327-7d1325392345" />
 <img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/553a8cab-3626-441d-8c0f-fe53a06152f4" />
