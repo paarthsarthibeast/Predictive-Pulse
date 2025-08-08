@@ -1,4 +1,4 @@
-# 🩺 Predictive Pulse: Blood Pressure Classification & PDF Report
+# 🩺 Predictive Pulse: Harnessing Machine Learning for Blood Pressure Analysis
 
 **Predictive Pulse** is a Flask-based machine learning web app that predicts an individual's blood pressure stage based on health inputs and generates a clinical-style PDF report. Built for simplicity, accessibility, and accuracy.
 
