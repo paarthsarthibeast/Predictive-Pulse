@@ -12,34 +12,34 @@ This tool helps users understand their BP condition—Normal, Elevated, Hyperten
 
 ## ✅ Features
 
-- 🔬 ML model predicts blood pressure stage
-- 📄 PDF report generation with user inputs and results
-- 🧠 Uses a trained **Gaussian Naive Bayes model**
-- 🎯 Clean and responsive **user interface**
-- 📊 Real-time classification with interpretation
-- 📂 Built with Flask, ready for local or cloud deployment
+- 🔬 ML model predicts blood pressure stage.
+- 📄 PDF report generation with user inputs and results.
+- 🧠 Uses a trained **Random Forest model** for best Accuracy.
+- 🎯 Clean and responsive **user interface**.
+- 📊 Real-time classification with interpretation.
+- 📂 Built with Flask, ready for local or cloud deployment.
 
 ---
 
 ## 🧠 How It Works
 
-1. User enters medical details via a form
-2. Inputs are preprocessed and encoded
-3. A trained ML model makes the prediction
-4. Result is shown with medical interpretation
-5. User can download a PDF report
+1. User enters medical details via a form.
+2. Inputs are preprocessed and encoded.
+3. A trained ML model makes the prediction.
+4. Result is shown with medical interpretation.
+5. User can download a PDF report.
 
 ---
 
 ## 🧰 Tech Stack
 
-| Layer      | Tech Used                           |
-| ---------- | ----------------------------------- |
-| Frontend   | HTML, CSS (Bootstrap), JavaScript   |
-| Backend    | Python (Flask)                      |
-| ML Model   | scikit-learn (Gaussian Naive Bayes) |
-| PDF Engine | reportlab                           |
-| Others     | numpy, pandas, gunicorn             |
+| Layer      | Tech Used                          |
+| ---------- | ---------------------------------- |
+| Frontend   | HTML, CSS (Bootstrap), JavaScript  |
+| Backend    | Python (Flask)                     |
+| ML Model   | scikit-learn (Random Forest Model) |
+| PDF Engine | reportlab                          |
+| Others     | numpy, pandas, gunicorn            |
 
 ---
 

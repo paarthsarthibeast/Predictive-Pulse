@@ -7,8 +7,7 @@ from reportlab.pdfgen import canvas
 from datetime import datetime
 
 # Load model and encoders
-model = pickle.load(open("models/gaussian_nb_model.pkl", "rb"))
-
+model = pickle.load(open("models/random_forest_model.pkl", "rb")) # For Best Accuracy.
 
 app = Flask(__name__)
 
